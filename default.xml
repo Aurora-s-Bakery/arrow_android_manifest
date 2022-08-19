@@ -43,6 +43,14 @@
            review="https://review.arrowos.net/"
            revision="refs/heads/arrow-13.0" />
 
+  <remote  name="githubgl"
+           fetch="https://github.com/roberto-sartori-gl"
+           revision="refs/heads/gl" />
+           
+  <remote name="lineage"
+          fetch="https://github.com/LineageOS" />
+
+
   <superproject name="platform/superproject" remote="aosp" revision="android-13.0.0_r2" />
   <contactinfo bugurl="go/repo-bug" />
 
