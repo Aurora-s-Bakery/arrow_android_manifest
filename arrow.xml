@@ -71,7 +71,7 @@
   <project path="hardware/libhardware_legacy" name="android_hardware_libhardware_legacy" remote="arrow" />
   <project path="hardware/ril" name="android_hardware_ril" groups="pdk" remote="arrow" />
   <!-- Oneplus Hardware -->
-  <project path="hardware/oneplus" name="android_hardware_oneplus" remote="github" revision="lineage-19.1" />
+  <project path="hardware/oneplus" name="android_hardware_oneplus" remote="lineage" revision="lineage-19.1" />
 
   <!-- packages repos -->
   <project path="packages/apps/ArrowPrebuilts" name="android_packages_apps_ArrowPrebuilts" remote="arrow" clone-depth="1" />
